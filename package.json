@@ -4,7 +4,7 @@
   "description": "Dave Joe M website",
   "main": "index.js",
   "scripts": {
-     "start": "node index.js",
+     "start": "node index.js"
   },
   "repository": {
     "type": "git",
