@@ -1,0 +1,17 @@
+{
+  "appname": "toutici-authenticator",
+  "database": {
+    "fullpath:": "mongodb://dave:touticia@ds153732.mlab.com:53732/toutici-authenticator",
+    "path": "ds153732.mlab.com:53732",
+    "user": "dave",
+    "pass": "touticia"
+  },
+  "server": {
+    "address": "http://toutici-authenticator.herokuapp.com"
+  },
+  "telegram": {
+    "TouticiAuthBot_token": "465432879:AAHN7JAG5kTPTVLpO4SxvZhvMpJY03DqayI"
+  },
+  "certificate": "./certs/cert.pem",
+  "key": "./certs/key.pem"
+}
