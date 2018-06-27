@@ -4,7 +4,6 @@
   "description": "Dave Joe M website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\" no tests \\\""
   },
   "repository": {
     "type": "git",
@@ -87,5 +86,5 @@
   },
   "engines": {
     "node": "^9.0"
-  },
+  }
 }
