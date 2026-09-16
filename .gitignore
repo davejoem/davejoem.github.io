@@ -1,0 +1,6 @@
+
+# added by daily-work-log
+logs/
+*.log
+frontend/build/
+.last_build_id
