@@ -419,7 +419,7 @@ h1, h2, h3 { margin: 0; line-height: 1.15; }
 .hero-title {
   font-family: var(--font-serif);
   font-weight: 700;
-  font-size: clamp(2.6rem, 7.5vw, 5rem);
+  font-size: clamp(1.9rem, 4.5vw, 2.9rem);
   letter-spacing: -0.02em;
   margin: 0 0 1.1rem;
   text-wrap: balance;
@@ -431,7 +431,7 @@ h1, h2, h3 { margin: 0; line-height: 1.15; }
 }
 
 .hero-lead {
-  font-size: clamp(1.05rem, 1.8vw, 1.3rem);
+  font-size: clamp(0.95rem, 1.4vw, 1.1rem);
   line-height: 1.6;
   color: var(--text);
   max-width: 46ch;
